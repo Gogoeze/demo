@@ -1,14 +1,91 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "channel": {
+    "id": 2309136,
+    "name": "Cattle_Tracker",
+    "description": "An IoT-based cattle tracking device, it uses the LORA communication protocol to communicate from the node on the cow to the Gateway.",
+    "latitude": "0.0",
+    "longitude": "0.0",
+    "field1": "Node_Battery",
+    "field2": "Gateway_Battery",
+    "field3": "lon",
+    "field4": "lat",
+    "field5": "gateway_alive",
+    "created_at": "2023-10-17T21:10:48Z",
+    "updated_at": "2023-11-02T10:06:21Z",
+    "last_entry_id": 1794
+  },
+  "feeds": [
+    {
+      "created_at": "2023-11-04T17:08:59Z",
+      "entry_id": 1695,
+      "field1": "63",
+      "field2": "50",
+      "field3": "8.54522",
+      "field4": "8.53006",
+      "field5": "1"
+    },
+    {
+      "created_at": "2023-11-04T17:09:20Z",
+      "entry_id": 1696,
+      "field1": "62",
+      "field2": "50",
+      "field3": "8.54522",
+      "field4": "8.53006",
+      "field5": "1"
+    },
+    {
+      "created_at": "2023-11-04T17:09:41Z",
+      "entry_id": 1697,
+      "field1": "62",
+      "field2": "50",
+      "field3": "8.54522",
+      "field4": "8.53006",
+      "field5": "1"
+    },
+    {
+      "created_at": "2023-11-04T17:10:02Z",
+      "entry_id": 1698,
+      "field1": "62",
+      "field2": "50",
+      "field3": "8.54522",
+      "field4": "8.53006",
+      "field5": "1"
+    },
+    {
+      "created_at": "2023-11-04T17:10:23Z",
+      "entry_id": 1699,
+      "field1": "62",
+      "field2": "50",
+      "field3": "8.54522",
+      "field4": "8.53007",
+      "field5": "1"
+    },
+    {
+      "created_at": "2023-11-04T17:10:44Z",
+      "entry_id": 1700,
+      "field1": "62",
+      "field2": "50",
+      "field3": "8.54522",
+      "field4": "8.53006",
+      "field5": "1"
+    },
+    {
+      "created_at": "2023-11-04T17:11:05Z",
+      "entry_id": 1701,
+      "field1": "62",
+      "field2": "50",
+      "field3": "8.54522",
+      "field4": "8.53006",
+      "field5": "1"
+    },
+    {
+      "created_at": "2023-11-04T17:11:26Z",
+      "entry_id": 1702,
+      "field1": "61",
+      "field2": "50",
+      "field3": "8.54521",
+      "field4": "8.53008",
+      "field5": "1"
+    }
+  ]
 }
