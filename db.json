@@ -1,91 +1,100 @@
 {
-  "channel": {
-    "id": 2309136,
-    "name": "Cattle_Tracker",
-    "description": "An IoT-based cattle tracking device, it uses the LORA communication protocol to communicate from the node on the cow to the Gateway.",
-    "latitude": "0.0",
-    "longitude": "0.0",
-    "field1": "Node_Battery",
-    "field2": "Gateway_Battery",
-    "field3": "lon",
-    "field4": "lat",
-    "field5": "gateway_alive",
-    "created_at": "2023-10-17T21:10:48Z",
-    "updated_at": "2023-11-02T10:06:21Z",
-    "last_entry_id": 1794
-  },
-  "feeds": [
-    {
-      "created_at": "2023-11-04T17:08:59Z",
-      "entry_id": 1,
-      "field1": "63",
-      "field2": "50",
-      "field3": "8.54522",
-      "field4": "8.53006",
-      "field5": "1"
+    "channel": {
+        "id": 2331405,
+        "name": "TREKK_SCOOTER_MOCK_DATA",
+        "description": "For monitoring GPS location of scooters",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "field1": "ID",
+        "field2": "LON",
+        "field3": "LAT",
+        "field4": "Node_battery",
+        "field5": "Gateway_battery",
+        "field6": "count",
+        "created_at": "2023-11-03T14:48:23Z",
+        "updated_at": "2023-12-07T10:11:54Z",
+        "last_entry_id": 3481
     },
-    {
-      "created_at": "2023-11-04T17:09:20Z",
-      "entry_id": 3,
-      "field1": "62",
-      "field2": "50",
-      "field3": "8.54522",
-      "field4": "8.53006",
-      "field5": "1"
-    },
-    {
-      "created_at": "2023-11-04T17:09:41Z",
-      "entry_id": 2,
-      "field1": "62",
-      "field2": "50",
-      "field3": "8.54522",
-      "field4": "8.53006",
-      "field5": "1"
-    },
-    {
-      "created_at": "2023-11-04T17:10:02Z",
-      "entry_id": 3,
-      "field1": "62",
-      "field2": "50",
-      "field3": "8.54522",
-      "field4": "8.53006",
-      "field5": "1"
-    },
-    {
-      "created_at": "2023-11-04T17:10:23Z",
-      "entry_id": 1,
-      "field1": "62",
-      "field2": "50",
-      "field3": "8.54522",
-      "field4": "8.53007",
-      "field5": "1"
-    },
-    {
-      "created_at": "2023-11-04T17:10:44Z",
-      "entry_id": 2,
-      "field1": "62",
-      "field2": "50",
-      "field3": "8.54522",
-      "field4": "8.53006",
-      "field5": "1"
-    },
-    {
-      "created_at": "2023-11-04T17:11:05Z",
-      "entry_id": 1,
-      "field1": "62",
-      "field2": "50",
-      "field3": "8.54522",
-      "field4": "8.53006",
-      "field5": "1"
-    },
-    {
-      "created_at": "2023-11-04T17:11:26Z",
-      "entry_id": 1,
-      "field1": "61",
-      "field2": "50",
-      "field3": "8.54521",
-      "field4": "8.53008",
-      "field5": "1"
-    }
-  ]
+    "feeds": [
+        {
+            "created_at": "2023-12-16T02:59:55Z",
+            "entry_id": 3474,
+            "field1": "2",
+            "field2": "-14.4933006",
+            "field3": "14.433993",
+            "field4": "0",
+            "field5": "0",
+            "field6": "2805"
+        },
+        {
+            "created_at": "2023-12-16T03:00:45Z",
+            "entry_id": 3475,
+            "field1": "2",
+            "field2": "0.000000000000000",
+            "field3": "0.000000000000000",
+            "field4": "0",
+            "field5": "0",
+            "field6": "2806"
+        },
+        {
+            "created_at": "2023-12-16T03:01:35Z",
+            "entry_id": 3476,
+            "field1": "1",
+            "field2": "0.000000000000000",
+            "field3": "0.000000000000000",
+            "field4": "0",
+            "field5": "0",
+            "field6": "2807"
+        },
+        {
+            "created_at": "2023-12-16T03:02:25Z",
+            "entry_id": 3477,
+            "field1": "3",
+            "field2": "0.000000000000000",
+            "field3": "0.000000000000000",
+            "field4": "0",
+            "field5": "0",
+            "field6": "2808"
+        },
+        {
+            "created_at": "2023-12-16T03:03:15Z",
+            "entry_id": 3478,
+            "field1": "3",
+            "field2": "-94.7395728",
+            "field3": "39.0289909",
+            "field4": "0",
+            "field5": "0",
+            "field6": "2809"
+        },
+        {
+            "created_at": "2023-12-16T03:04:05Z",
+            "entry_id": 3479,
+            "field1": "1",
+            "field2": "7.3996947",
+            "field3": "8.9930223",
+            "field4": "0",
+            "field5": "0",
+            "field6": "2810"
+        },
+        {
+            "created_at": "2023-12-16T03:04:55Z",
+            "entry_id": 3480,
+            "field1": "1",
+            "field2": "0.000000000000000",
+            "field3": "0.000000000000000",
+            "field4": "0",
+            "field5": "0",
+            "field6": "2811"
+        },
+        {
+            "created_at": "2023-12-16T03:05:45Z",
+            "entry_id": 3481,
+            "field1": "1",
+            "field2": "0.000000000000000",
+            "field3": "0.000000000000000",
+            "field4": "0",
+            "field5": "0",
+            "field6": "2812"
+        }
+    ]
 }
